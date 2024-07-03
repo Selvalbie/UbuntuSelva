@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi, 
 lets begin
+=======
+Hi
+Working on the main branch.
+>>>>>>> 73bda04 (git commit to main)
