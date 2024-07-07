@@ -1,2 +1,0 @@
-# UbuntuSelva
-UbuntuSelvaVM
